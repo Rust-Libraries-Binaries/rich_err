@@ -1,6 +1,6 @@
 [package]
 name = "rich_err"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Ben Santora <bensatlantic@gmail.com>"]
 edition = "2021"
 description = "A Rust library for rich, contextual error reporting."
