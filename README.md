@@ -1,5 +1,4 @@
 # rich_err
-<<<<<<< HEAD
 
 **rich_err** is a Rust library designed to simplify and enrich error handling by adding structured and meaningful context to errors. It provides a developer-friendly API for consistent and detailed error reporting, making debugging and error analysis more efficient.
 
@@ -40,7 +39,7 @@ with_context(mut self, context: &str) -> Self: Adds additional context to the er
 to_string_with_context(&self) -> String: Formats the error message with all context included.
 
 ## Running Tests
-To run the tests and ensure everything is working correctly, use the following command:
+Run the tests and ensure everything is working correctly, using the following command:
 
 ```bash
 
@@ -63,5 +62,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Author
 Ben Santora (<bensatlantik@gmail.com>)
 
-=======
->>>>>>> origin/main
