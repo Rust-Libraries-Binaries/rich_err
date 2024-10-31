@@ -1,4 +1,5 @@
 # rich_err
+<<<<<<< HEAD
 
 **rich_err** is a Rust library designed to simplify and enrich error handling by adding structured and meaningful context to errors. It provides a developer-friendly API for consistent and detailed error reporting, making debugging and error analysis more efficient.
 
@@ -62,3 +63,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Author
 Ben Santora (<bensatlantik@gmail.com>)
 
+=======
+>>>>>>> origin/main
